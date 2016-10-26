@@ -1,0 +1,208 @@
+## **[Collaborative `github` in Rstudio](https://app.mozillafestival.org/#_session-259)**
+
+<br>
+
+### ***MozFest2016, London, Sat 29 Oct. 1:00 - 3:00 pm***
+###### Open Science, Floor 9 - 903
+##### **Anna Krystalli** [\@annakrystalli](https://twitter.com/annakrystalli) |
+
+<br>
+
+###### link to handout: <https://annakrystalli.github.io/UNAM/collab_gh_intro.nb.html>
+
+<br>
+
+<img src="http://www.palermo.edu/Archivos_content/ingenieria/top/130712_git_github_topdenota1.jpg" width="250px" />
+<img src="https://pbs.twimg.com/profile_images/487277095681150976/aEp2vlJy.png" width="150px" />
+
+
+## Session Roadmap
+
+<br>
+
+### 1 Introductions 
+
+##### - **get to know the audience** (10 mis)
+  - Shout outs and twitter polls.
+
+##### - **get to know github** (25 mins)
+  - github as a computational research tool
+
+<br>
+
+### 2 Get stuck in
+
+##### - [Version control with github and rstudio](https://github.com/mikecroucher/ISBE_Symposium) (40 mins)
+  - In this session, we are going to get you started with using version control from within RStudio.
+
+  - The material is self-paced and includes a worked-example. It is suggested that you work through the sections in order.
+
+##### - [Collaborative github through rstudio]() #EvoLottery (40 mins)
+  - In this exercise, each participant will fork a github repo, and contribute a file required to simulate the **evolutionary trajectory of an imaginary species' body size**.
+  - We'll use github to collate all species files and plot them all up together at the end! We'll also **discover the skull and beak shapes** associated with each simulated species size.
+
+
+<br>
+<br>
+
+
+## **version control and computing**
+
+> \"*The need for a logical way to organize and control revisions has existed for almost as long as writing has existed, but revision control became much more important, and complicated, when the era of computing began.*\"
+
+<br>
+
+## **version control and science**
+
+- **long been used to maintain code repositories in the software industry**
+
+     > especially in open source software
+    
+- **science increasingly computational**
+
+    > demands for increased openness and transparency
+
+<br>
+
+##
+
+<iframe src="http://billmills.github.io/scienceXpython/" width = 700, height = 500></iframe>
+<http://billmills.github.io/scienceXpython/>
+
+<br>
+
+## modern science workflows
+
+***can be overwhelming***
+
+<img src="images/workflows.png" width="500px" />
+
+<br>
+
+## succesful modern science workflows
+
+***can be extremely powerful***
+
+<img src="images/collab.png" width="500px" />
+
+<br>
+<br>
+
+## **github for science**
+
+[![](images/git4sci.png)](http://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7)
+
+
+> ideal for managing the full suite of research outputs such as datasets, statistical code, figures, lab notes, and manuscripts.
+
+#### e.g [***My research workflow, based on Github***](https://status.github.com/images/invertocat.png) by [*Carl Boettiger*](https://twitter.com/cboettig)
+
+#### recommended in [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
+
+<br>
+
+## **Rstudio for r users**
+
+![](https://status.github.com/images/invertocat.png)
+
+<br> 
+
+###           **♡**
+
+<img src="https://pbs.twimg.com/profile_images/487277095681150976/aEp2vlJy.png" width="200px" />
+
+
+
+## **invest in next generation science skills**
+
+<br>
+
+- ...and super-charge your teams!
+
+- ...or get left behind
+
+<br>
+<br>
+
+***
+
+# **why github?**
+
+# **empowers collaboration**
+
+## repos
+
+centralising information e.g. [**ROpenSci / rfishbase**](https://github.com/ropensci/rfishbase)
+
+<img src="images/repo-1.png" width="500px"/>
+
+
+
+
+<br>
+
+## issues
+
+project management
+
+[<img src="images/issues-1.png" width="500px"/>](https://github.com/ropensci/rfishbase/issues)
+
+<br>
+
+## commits 
+
+project tracking
+
+[<img src="images/track-1.png" width="500px"/>](https://github.com/ropensci/rfishbase/network)
+
+<br>
+<br>
+
+***
+
+# **fosters reproducibility**
+
+## commits
+
+traceability
+
+[<img src="images/commits-1.png" width="500px"/>](https://github.com/ropensci/rfishbase/commits/master)
+
+<br>
+<br>
+
+## **entire process of project evolution reproducible**
+
+<br>
+<br>
+
+***
+
+# **PRACTICALS**
+
+<br>
+
+## **Practical 1: Github & Rstudio for version control**
+
+Code Cafe Style tutorial by [Mike Croucher](http://www.walkingrandomly.com/) that will get you set up with all required software and able to link rstudio projects to github repos.
+
+### [**Enter Practical**](https://github.com/mikecroucher/ISBE_Symposium)
+
+
+<br>
+<br>
+<br>
+
+
+## **Practical 2: Github & Rstudio for collaborative coding**
+### **#EvoLottery**
+
+**Beak and skull shapes in birds of prey (“raptors”) are strongly coupled and largely controlled by size.** 
+
+In this exercise, each participant will fork a github repo, and contribute a file required to simulate the **evolutionary trajectory of an imaginary species' body size**.
+
+We'll use github to collate all species files and plot them all up together at the end! We'll also **discover the skull and beak shapes** associated with each simulated species size.
+
+### [**Enter Practical**](https://github.com/mikecroucher/ISBE_Symposium)
+<br>
+<br>
